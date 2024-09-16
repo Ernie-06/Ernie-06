@@ -3,7 +3,7 @@
 👀 I’m interested Web Development.
 🌱 I’m currently learning HTML5 and CSS3 and have skills and some experience using both.
 💞️ I’m looking to collaborate on beginning and intermediate skills development projects in Front-End Web Development.
-📫 How to reach me: email
+📫 How to reach me: ernaldito12@gmail.com
 😄 Pronouns: he/him
 ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 <!---
