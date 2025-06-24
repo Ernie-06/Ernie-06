@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h2>About Me</h2>
 👋 Hi, I’m Ernaldo Becerra (@Ernie-06).
 👀 I’m interested Web Development.
-🌱 I’m currently learning Javasscript, Git and Github and have skills and some experience using HTML and CSS.
+🌱 I’m currently learning Javascript, Git and Github and have skills and some experience using HTML and CSS.
 
 <h2> Skills</h2>
 
