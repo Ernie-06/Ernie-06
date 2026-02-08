@@ -11,28 +11,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Self-taught+Front-End+Developer,;Still+in+process;Active+Learner;"></a>
 </p>
 
-<h2>About Me</h2>
-👋 Hi, I’m Ernaldo Becerra (@Ernie-06).
-👀 I’m interested Web Development.
-🌱 I’m currently learning Javascript, Git and Github and have skills and some experience using HTML and CSS.
+I'm a student and aspiring developer, currently learning:
 
-<h2> Skills</h2>
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-<h2> Still Learning </h2>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-<h2> Future Tech Stack </h2>
+Future Skills I'm exploring:
 
 ![Databases](https://img.shields.io/badge/-Databases-05122A?style=flat&logo=database)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 <h2> How to reach me </h2>
  <strong> ernaldito12@gmail.com </strong>
